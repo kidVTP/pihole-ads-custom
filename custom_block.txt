@@ -5,3 +5,4 @@
 0.0.0.0 record.brave158.com
 0.0.0.0 www.fb88vin.com
 0.0.0.0 www.33i9bet.com
+0.0.0.0 f8009.com
