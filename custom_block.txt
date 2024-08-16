@@ -14,3 +14,4 @@
 0.0.0.0 www.i9bet34.com
 0.0.0.0 blogger.googleusercontent.com
 0.0.0.0 kuwin26.com
+0.0.0.0 i.imgur.com
